@@ -51,6 +51,15 @@ some exceptions.
 |  DESC  | Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours) |
 |  ENTRIES  |  The comulative entry register value for a device  |
 |  EXITS |  The cumulative exit register value for a devic |
+
+
+• Feature Engineering:
+- Calculating entries from cumulative entries
+- Dropping outliers
+- Formatting Dates and Times
+- Grouping data into stations
+- Mapping with Day od week 
+
   
 
 ## Tools
