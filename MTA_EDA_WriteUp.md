@@ -71,5 +71,4 @@ Libraries: Numpy, Pandas, Matplotlib
 
 <a href="https://github.com/RaghadAlkhudhair/MTA_EDA_Project/blob/main/MTA_EDA.ipynb" > Python Notebook </a>
 
-<a href="https://github.com/RaghadAlkhudhair/MTA_EDA_Project/blob/main/MTA_EDA_Presentation.pptx" > Presentation </a>
 
